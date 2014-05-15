@@ -23,3 +23,7 @@ body {
 	display: inline-block;
 	right: 0;
 }
+
+.alert {
+	margin-top: 10px;
+}
