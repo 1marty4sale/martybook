@@ -27,3 +27,7 @@ body {
 .alert {
 	margin-top: 10px;
 }
+
+.avatar {
+	width: 90%;
+}
